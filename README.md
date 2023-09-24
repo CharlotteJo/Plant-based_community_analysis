@@ -6,6 +6,6 @@ The work is divided in three parts:
 - A dashboard that shows the results of the analysis and the creation of users personas
 - The elaboration of a strategy
 
-
+[Here](https://docs.google.com/spreadsheets/d/10QO-oXIA4l8-3adIz2X5i9WLjGXYT_dt/edit?rtpof=true&sd=true#gid=2054200166) you can find the dataset with the information about the user's activity
 
 
